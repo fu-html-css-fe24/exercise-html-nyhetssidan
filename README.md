@@ -75,3 +75,6 @@ minima ipsa assumenda necessitatibus delectus asperiores!
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 Et recusandae eius aut minus amet fuga exercitationem delectus sint eos aliquid.
 ```
+
+### Bilder
+Leta upp en passande bild på exempevis pixabay, unsplash etc., och visa upp tillsammans med varje artikel. Tänk på att det är förbjudet att "stjäla" random bilder från Google Images.
