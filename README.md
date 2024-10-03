@@ -5,8 +5,7 @@ Märk upp delarna av texten med rätt element för att bygga upp hela HTML-sidan
 
 ### HTML-dokumentet
 
-Lägg till så att dokumentet blir ett komplett HTML-dokument.
-Lägg också till ```<!DOCTYPE html>``` längst upp i dokumentet.
+Lägg till så att dokumentet blir ett komplett HTML-dokument med ```<!DOCTYPE html>``` längst upp i dokumentet.
 
 Använd elementen
 
